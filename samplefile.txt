@@ -1,1 +1,1 @@
-This file is created when I was connecting my local repo with github repo
+This file is created when I was connecting my local repo with github repo.
